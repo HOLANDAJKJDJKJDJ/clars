@@ -1,0 +1,4 @@
+import os
+os.system("When I enter the victim's phone number, this victim's email appears")
+Email = input("Enter a phone number")
+if Email ("Email the victim")
